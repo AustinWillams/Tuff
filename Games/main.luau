@@ -1,6 +1,6 @@
 pcall(function() setthreadidentity(8) end)
 
-local UILIB_LOCAL_PATH = "ui_lib.luau"
+local UILIB_LOCAL_PATH = "ui_library.luau"
 local UILIB_URL = "https://github.com/AustinWillams/Tuff/blob/main/Games/ui_library.luau"
 local UILIB_LOCAL_PATHS = {
     UILIB_LOCAL_PATH,
