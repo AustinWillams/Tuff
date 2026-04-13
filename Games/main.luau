@@ -4,8 +4,8 @@ local UILIB_LOCAL_PATH = "ui_library.luau"
 local UILIB_URL = "https://github.com/AustinWillams/Tuff/blob/main/Games/ui_library.luau"
 local UILIB_LOCAL_PATHS = {
     UILIB_LOCAL_PATH,
-    "OperationOne-main/ui_lib.lua",
-    "OperationOne-main\\ui_lib.lua",
+    "OperationOne-main/ui_library.luau",
+    "OperationOne-main\\ui_library.luau",
 }
 local SHARED_RUNTIME_SOURCE = { local_path = "shared_runtime.luau", url = "https://github.com/AustinWillams/Tuff/blob/main/Games/shared_runtime.luau" }
 
